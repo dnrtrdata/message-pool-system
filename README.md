@@ -1,6 +1,5 @@
 Here is an updated `README.md` for the repository:
 
-```markdown
 # Message Pool System
 
 A framework designed to facilitate communication, learning, and collaboration between multiple Large Language Models (LLMs) and Unreal Engine 5.4 through a central message pool. This system includes a graphical user interface (GUI) for monitoring and managing interactions.
@@ -17,7 +16,6 @@ A framework designed to facilitate communication, learning, and collaboration be
 ```bash
 git clone https://github.com/dnrtrdata/message-pool-system.git
 cd message-pool-system
-```
 
 ### Install Dependencies
 You can install the necessary dependencies using the provided Python script:
